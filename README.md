@@ -1,6 +1,5 @@
-<title> DataMiningModels </title>
 <h1>Modelos de Mineria de Datos</h1>
-
+<h2> Algoritmos de Mineria de Datos </h2>
 <ul>
 
 <li type="circle">RandomForest</li>
