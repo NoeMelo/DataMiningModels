@@ -9,3 +9,9 @@
 <li type="disc">LIGHTGBM</li>
 
 </ul>
+<h2> Gráficos</h2>
+<ul>
+
+<li type="circle">Matplotlib</li>
+
+</ul>
